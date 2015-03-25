@@ -1,0 +1,12 @@
+language: ruby
+
+script: bundle exec ruby spec/boolean2_spec.rb
+
+rvm:
+- 2.2
+- 2.1
+- 2.0
+- rbx-2
+- jruby-head
+- jruby-9000
+
