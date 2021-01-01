@@ -1,9 +1,11 @@
+# frozen_string_literal: true
+
 module Boolean2
-  VERSION = '1.0.0'
+  VERSION = '1.0.1'
 
   def self.new(object)
     object.to_boolean2
-  end 
+  end
 end
 
 class TrueClass

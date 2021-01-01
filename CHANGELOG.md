@@ -1,6 +1,10 @@
 ## CHANGELOG
 
-### 0.1.0
+### 1.0.1
 
-* Inital release
+- Relax Ruby version requirement to allow Ruby 3.0
+
+### 1.0.0
+
+- Initial release
 
