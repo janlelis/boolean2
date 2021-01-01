@@ -1,4 +1,4 @@
-# Boolean2 [![[version]](https://badge.fury.io/rb/boolean2.svg)](http://badge.fury.io/rb/boolean2)  [![[travis]](https://travis-ci.org/janlelis/boolean2.png)](https://travis-ci.org/janlelis/boolean2)
+# Boolean2 [![[version]](https://badge.fury.io/rb/boolean2.svg)](https://badge.fury.io/rb/boolean2) [![[ci]](https://github.com/janlelis/boolean2/workflows/Test/badge.svg)](https://github.com/janlelis/boolean2/actions?query=workflow%3ATest)
 
 Next time before you want to define a global `Boolean` class, consider using this bare-bones approach instead.
 
@@ -31,4 +31,4 @@ Boolean2.new(Object.new) #=> true
 
 ## J-_-L
 
-Copyright (C) 2015 Jan Lelis <http://janlelis.com>. Released under the MIT license.
+Copyright (C) 2015 Jan Lelis <https://janlelis.com>. Released under the MIT license.
