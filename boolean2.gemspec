@@ -8,7 +8,7 @@ Gem::Specification.new do |gem|
   gem.summary       = "A global Boolean2 constant that is an ancestor of true and false."
   gem.description   = "A global Boolean2 constant that is an ancestor of true and false. Useful for coercion libraries."
   gem.authors       = ["Jan Lelis"]
-  gem.email         = "mail@janlelis.de"
+  gem.email         = ["hi@ruby.consulting"]
   gem.homepage      = "https://github.com/janlelis/boolean2"
   gem.license       = "MIT"
 
